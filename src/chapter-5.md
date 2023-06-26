@@ -1,4 +1,4 @@
-Chapter: Integrating AI Writing into Your Workflow
+Integrating AI Writing into Your Workflow
 ==================================================
 
 Integrating Artificial Intelligence (AI) writing tools into your workflow can bring many benefits, such as increased productivity and improved writing outcomes. However, it's essential to integrate AI writing into your workflow thoughtfully and effectively. In this chapter, we'll explore some best practices for integrating AI writing into your workflow.

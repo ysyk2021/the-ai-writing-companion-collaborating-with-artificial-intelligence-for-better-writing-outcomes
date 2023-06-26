@@ -1,4 +1,4 @@
-Chapter: Combining AI Writing with Human Expertise
+Combining AI Writing with Human Expertise
 ==================================================
 
 Artificial Intelligence (AI) writing tools offer many benefits to the writing process, including increased productivity and improved writing outcomes. However, it's important to supplement AI writing with human expertise to ensure that the content meets professional standards and resonates with readers. In this chapter, we'll explore how to combine AI writing with human expertise effectively.

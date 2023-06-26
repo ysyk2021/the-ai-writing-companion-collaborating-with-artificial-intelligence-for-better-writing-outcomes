@@ -1,4 +1,4 @@
-Chapter: Working with an AI Writing Tool
+Working with an AI Writing Tool
 ========================================
 
 Artificial Intelligence (AI) writing tools offer many benefits to writers, including increased productivity and improved writing outcomes. However, it's important to know how to work effectively with these tools to achieve the best results. In this chapter, we'll explore some best practices for working with an AI writing tool.

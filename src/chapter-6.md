@@ -1,4 +1,4 @@
-Chapter: Best Practices for AI Writing Collaboration
+Best Practices for AI Writing Collaboration
 ====================================================
 
 Collaborating with Artificial Intelligence (AI) writing tools can bring many benefits to the writing process, but it's essential to approach collaboration thoughtfully and effectively. In this chapter, we'll explore some best practices for AI writing collaboration.
