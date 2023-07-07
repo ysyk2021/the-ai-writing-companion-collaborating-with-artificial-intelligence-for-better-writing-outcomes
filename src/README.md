@@ -1,4 +1,4 @@
-# Introduction for Overview
+# Introduction
 
 Writing is a complex and often challenging process, requiring creativity, critical thinking, and attention to detail. The AI Writing Companion provides writers with innovative tools and strategies for collaborating with artificial intelligence (AI) to enhance their writing and improve their outcomes.
 
