@@ -1,5 +1,3 @@
-Generating Ideas and Outlines
-=======================================================================
 
 One of the most significant benefits of collaborating with Artificial Intelligence (AI) in writing is the ability to generate ideas and outlines quickly. In this chapter, we'll explore how to work with an AI writing tool for generating ideas and outlines.
 

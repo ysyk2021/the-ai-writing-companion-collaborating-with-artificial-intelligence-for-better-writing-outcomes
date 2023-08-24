@@ -1,5 +1,3 @@
-The Role of Human Expertise in AI-Assisted Writing
-======================================================================================================
 
 Artificial Intelligence (AI) writing tools can be powerful aids in the writing process, but they cannot replace human expertise entirely. In this chapter, we'll explore the role of human expertise in AI-assisted writing and how to combine AI writing with human expertise for better writing outcomes.
 

@@ -1,5 +1,3 @@
-Benefits and Limitations of Each Tool
-==============================================================================
 
 Artificial Intelligence (AI) writing tools can be powerful aids in the writing process, but each tool has its own unique benefits and limitations. In this chapter, we'll explore some common AI writing tools and their respective benefits and limitations.
 

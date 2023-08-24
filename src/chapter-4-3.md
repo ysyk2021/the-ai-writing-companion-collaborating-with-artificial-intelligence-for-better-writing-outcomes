@@ -1,5 +1,3 @@
-Drafting and Revising Content
-=======================================================================
 
 Collaborating with Artificial Intelligence (AI) can be a powerful way to enhance your writing outcomes. In this chapter, we'll explore how to work with an AI writing tool for drafting and revising content.
 

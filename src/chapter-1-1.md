@@ -1,5 +1,3 @@
-The Impact of Technology on the Writing Industry
-=======================================================================
 
 Technology has had a profound impact on the writing industry, changing the way we research, write, and collaborate. From word processors to Artificial Intelligence (AI) writing tools, technology has transformed the way writers work and communicate. In this chapter, we'll explore the impact of technology on the writing industry.
 

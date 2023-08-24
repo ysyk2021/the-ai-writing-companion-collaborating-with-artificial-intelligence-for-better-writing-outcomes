@@ -1,5 +1,3 @@
-Creating a Style Guide
-============================================================
 
 Collaborating with Artificial Intelligence (AI) writing tools can bring many benefits to the writing process, but it's essential to prepare for collaboration thoughtfully and effectively. One critical step in preparing for collaboration is creating a style guide. In this chapter, we'll explore some best practices for creating a style guide when collaborating with AI writing tools.
 

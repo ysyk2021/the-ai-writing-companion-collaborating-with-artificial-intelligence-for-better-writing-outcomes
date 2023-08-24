@@ -1,5 +1,3 @@
-Preparing for Collaboration
-====================================
 
 Collaborating with Artificial Intelligence (AI) can enhance your writing process and improve your writing outcomes. However, to maximize the benefits of AI collaboration, it's important to prepare ahead of time. In this chapter, we'll explore some best practices for preparing for AI collaboration.
 

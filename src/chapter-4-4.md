@@ -1,5 +1,3 @@
-Editing and Proofreading
-==================================================================
 
 Editing and proofreading are essential steps in the writing process, ensuring that your content is error-free and polished. In this chapter, we'll explore how to work with an AI writing tool for editing and proofreading.
 

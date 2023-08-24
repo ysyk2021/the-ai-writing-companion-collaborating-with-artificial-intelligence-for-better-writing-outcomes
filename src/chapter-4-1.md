@@ -1,5 +1,3 @@
-Getting Started with the Tool
-=======================================================================
 
 If you're new to collaborating with AI for writing, it can be overwhelming to get started with a new tool. In this chapter, we'll explore how to work with an AI writing tool and provide some tips on getting started.
 

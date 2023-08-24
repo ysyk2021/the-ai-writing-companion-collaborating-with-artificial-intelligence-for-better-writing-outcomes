@@ -1,5 +1,3 @@
-Setting Clear Goals and Expectations
-==========================================================================
 
 Collaborating with Artificial Intelligence (AI) writing tools can bring many benefits to the writing process, but it's essential to prepare for collaboration thoughtfully and effectively. One critical step in preparing for collaboration is setting clear goals and expectations. In this chapter, we'll explore some best practices for setting clear goals and expectations when collaborating with AI writing tools.
 

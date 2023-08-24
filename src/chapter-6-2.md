@@ -1,5 +1,3 @@
-Avoiding Common Pitfalls
-==============================================================================
 
 Collaborating with AI can be a powerful tool for enhancing your writing outcomes, but it is essential to approach this collaboration in the right way. In this chapter, we explore some best practices for AI writing collaboration and highlight common pitfalls to avoid.
 

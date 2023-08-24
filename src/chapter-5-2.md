@@ -1,5 +1,3 @@
-Creating an Efficient Collaboration Process
-===============================================================================================
 
 Integrating Artificial Intelligence (AI) writing tools into your workflow can bring many benefits, such as increased productivity, improved writing outcomes, and more efficient collaboration. In this chapter, we'll explore some best practices for creating an efficient collaboration process when integrating AI writing into your workflow.
 
