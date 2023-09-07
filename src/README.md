@@ -8,3 +8,7 @@ The AI Writing Companion is designed for anyone who wants to become a more effec
 Overall, the goal of this book is to provide an understanding of how AI technology can be used to enhance writing outcomes. By exploring AI-powered techniques and strategies, writers can gain insights and ideas for integrating these technologies into their own creative processes, leading to better writing outcomes. With the help of the AI Writing Companion, writers can improve their writing skills, overcome common challenges, and achieve success in their writing endeavors.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
