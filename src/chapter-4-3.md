@@ -1,5 +1,4 @@
-Chapter 5: Drafting and Revising Content
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective writing often involves a process of drafting and revising to refine your ideas and create polished content. When collaborating with an AI writing companion, this process takes on new dimensions and efficiencies. In this chapter, we'll explore how to leverage artificial intelligence to enhance your drafting and revision stages for better writing outcomes.
 

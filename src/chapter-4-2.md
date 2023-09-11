@@ -1,5 +1,4 @@
-Chapter 3: Generating Ideas and Outlines
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the creative process of writing, one of the most crucial and sometimes challenging steps is generating ideas and creating a structured outline. Fortunately, with the aid of artificial intelligence (AI), this task can become more manageable and productive. This chapter will delve into various techniques and tools that can assist writers in brainstorming ideas and structuring their writing projects effectively.
 

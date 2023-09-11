@@ -1,5 +1,4 @@
-Chapter 8: Maintaining Authenticity and Creativity
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the collaborative world of writing with artificial intelligence, one of the most significant challenges is striking a balance between leveraging AI's capabilities and preserving the authenticity and creativity that make your writing unique. This chapter explores strategies to ensure that while collaborating with AI, your voice and creative spirit continue to shine through.
 

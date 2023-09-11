@@ -1,5 +1,4 @@
-Chapter 5: Benefits and Limitations of Each Tool
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As you embark on your journey of collaborating with artificial intelligence for better writing outcomes, it's essential to understand the unique benefits and limitations associated with different AI writing tools. Each tool has its strengths and weaknesses, and choosing the right one for your specific needs depends on a clear understanding of these aspects. In this chapter, we will explore the advantages and limitations of various AI writing tools.
 

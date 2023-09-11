@@ -1,5 +1,4 @@
-Chapter 7: The Role of Human Expertise in AI-Assisted Writing
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we've explored the various ways in which artificial intelligence can enhance the writing process, it's crucial to acknowledge the indispensable role of human expertise in the realm of AI-assisted writing. While AI offers powerful tools and capabilities, it's the unique skills, creativity, and judgment of human writers that ultimately shape the quality and impact of written content. In this chapter, we will delve into the essential role of human expertise in the collaborative process of AI-assisted writing.
 

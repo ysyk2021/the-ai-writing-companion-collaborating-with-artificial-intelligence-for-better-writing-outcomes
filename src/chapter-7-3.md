@@ -1,5 +1,4 @@
-Chapter 6: Balancing AI and Human Input for Optimal Outcomes
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the delicate art of balancing Artificial Intelligence (AI) and human input to achieve the best possible writing outcomes. While AI can be a powerful tool, it is essential to understand how to harmonize its capabilities with human creativity, intuition, and expertise.
 

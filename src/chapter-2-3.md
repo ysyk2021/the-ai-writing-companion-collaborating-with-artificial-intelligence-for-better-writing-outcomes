@@ -1,5 +1,4 @@
-Chapter 4: Choosing the Right AI Tool for Your Needs
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Selecting the most suitable AI tool for your writing requirements is a pivotal decision. With a plethora of AI-powered writing assistants and tools available, understanding your specific needs and matching them to the capabilities of the AI software is essential. In this chapter, we will explore the factors to consider when choosing the right AI tool to enhance your writing process.
 

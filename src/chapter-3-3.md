@@ -1,5 +1,4 @@
-Chapter 10: Creating a Style Guide
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of creating a style guide when collaborating with Artificial Intelligence (AI) for writing. A style guide serves as a critical tool for maintaining consistency, clarity, and the desired tone in your writing, especially when AI is involved in the process.
 

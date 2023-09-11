@@ -1,5 +1,4 @@
-Chapter 6: Editing and Proofreading
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Editing and proofreading are essential steps in the writing process to ensure that your content is polished, error-free, and ready for publication. With the assistance of artificial intelligence, these tasks can become more efficient and effective. In this chapter, we will explore how AI can enhance the editing and proofreading process, helping you achieve better writing outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 14: Predictions for the Future of AI-Assisted Writing
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will peer into the crystal ball to envision the exciting future of AI-assisted writing. As technology continues to advance, the possibilities for AI's role in the writing process are boundless, and we'll explore some of the most compelling predictions for what lies ahead.
 

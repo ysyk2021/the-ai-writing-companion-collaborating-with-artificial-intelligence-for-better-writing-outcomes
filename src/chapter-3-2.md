@@ -1,5 +1,4 @@
-Chapter 12: Identifying Your Target Audience
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential process of identifying your target audience when collaborating with Artificial Intelligence (AI) for writing. Understanding your audience is a fundamental step in creating content that resonates, engages, and delivers better writing outcomes.
 

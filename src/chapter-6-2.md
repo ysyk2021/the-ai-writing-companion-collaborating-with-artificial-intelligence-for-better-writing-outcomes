@@ -1,5 +1,4 @@
-Chapter 7: Avoiding Common Pitfalls
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the collaborative journey of utilizing AI as your writing companion, it's essential to be aware of common pitfalls and challenges that can arise. This chapter explores these potential stumbling blocks and provides guidance on how to avoid them to achieve better writing outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 8: Creating an Efficient Collaboration Process
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficiency is at the core of successful collaboration between writers and artificial intelligence (AI) tools. In this chapter, we will explore strategies and best practices for creating an efficient collaboration process that maximizes the benefits of AI while preserving the unique voice and expertise of human writers.
 

@@ -1,5 +1,4 @@
-Chapter 16: Emerging Trends in AI Writing Technology
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will dive into the dynamic and ever-evolving landscape of AI writing technology. As AI continues to advance, it brings forth an array of emerging trends that are shaping the future of writing and content creation.
 

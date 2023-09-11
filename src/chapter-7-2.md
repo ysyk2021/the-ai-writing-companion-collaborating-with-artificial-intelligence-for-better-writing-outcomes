@@ -1,5 +1,4 @@
-Chapter 4: Leveraging AI to Enhance Human Creativity and Productivity
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can be harnessed as a powerful tool to augment human creativity and productivity in the realm of writing. We will delve into the ways AI can be integrated seamlessly into the writing process to enhance not only the quality of the content produced but also the efficiency with which it is generated.
 

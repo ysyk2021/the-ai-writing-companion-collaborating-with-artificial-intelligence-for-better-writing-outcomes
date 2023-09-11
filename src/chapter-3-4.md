@@ -1,5 +1,4 @@
-Chapter 9: Developing a Content Strategy
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 A well-defined content strategy is the backbone of successful writing projects, especially when collaborating with artificial intelligence (AI) tools. In this chapter, we will explore the key steps and considerations in developing a content strategy that leverages AI for better writing outcomes.
 
